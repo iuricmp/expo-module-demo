@@ -12,6 +12,7 @@
     "expo-settings": "file:../../packages/expo-settings/expo-settings-0.2.0.tgz",
     "expo-splash-screen": "~0.18.2",
     "expo-status-bar": "~1.4.4",
+    "hello-module": "file:../../packages/hello-module/hello-module/hello-module-0.1.0.tgz",
     "react": "18.2.0",
     "react-native": "0.71.8"
   },
