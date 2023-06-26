@@ -3212,9 +3212,9 @@ expo-modules-core@1.2.7:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
 
-"expo-settings@file:../../packages/expo-settings/expo-settings-0.1.0.tgz":
-  version "0.1.0"
-  resolved "file:../../packages/expo-settings/expo-settings-0.1.0.tgz#429137556a5e2456ebcd89dcd96a5f50f4029c65"
+"expo-settings@file:../../packages/expo-settings/expo-settings-0.2.0.tgz":
+  version "0.2.0"
+  resolved "file:../../packages/expo-settings/expo-settings-0.2.0.tgz"
 
 expo-splash-screen@~0.18.2:
   version "0.18.2"

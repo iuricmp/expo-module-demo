@@ -9,11 +9,11 @@
   },
   "dependencies": {
     "expo": "~48.0.18",
-    "expo-settings": "file:../../packages/expo-settings/expo-settings-0.1.0.tgz",
+    "expo-settings": "file:../../packages/expo-settings/expo-settings-0.2.0.tgz",
+    "expo-splash-screen": "~0.18.2",
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
-    "react-native": "0.71.8",
-    "expo-splash-screen": "~0.18.2"
+    "react-native": "0.71.8"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
