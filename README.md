@@ -15,3 +15,7 @@ I'm struggling to get the `gomobile` module to work in a React Native Web app. I
     |         ^ 'Hello/Hello.h' file not found
   2 |
 ```
+
+### Links
+
+- https://danielwiese.com/posts/react-native-gomobile/
